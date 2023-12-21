@@ -6,7 +6,7 @@
 ![alt text](https://cdn.qwiklabs.com/tQ3NS2xpirSs1UXVcklIYVQM7WkUc%2F8iC7ryGFPSfRs%3D)
 
 ## Overview
-This project contains Terraform configurations for setting up cloud resources. The structure uses modularized `.tf` files for efficient and reusable infrastructure as code.
+This repo contains Terraform configurations (in the `tfinfra` dir) for setting up cloud resources. The structure uses modularized `.tf` files for efficient and reusable infrastructure as code.
 
 ## Prerequisites
 - Cloud Shell and project access
