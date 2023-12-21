@@ -32,7 +32,8 @@ This project contains Terraform configurations for setting up cloud resources. T
 
 - **Create Configurations:**
 
-  Create `.tf` configuration files for all required resources. Organize these files using nested folders for modules, which are containers for reusable configurations. For instance, use the `instance` directory for Virtual Machines (VMs).
+  Create `.tf` configuration files for all required resources, use `touch` and `nano` or 
+  any other convenient tools. Organize these files using nested folders for modules, which are containers for reusable configurations. For instance, use the `instance` directory for Virtual Machines (VMs).
 
 - **Format Configuration Files:**
 
